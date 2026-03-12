@@ -72,6 +72,6 @@ It takes a long article as input and returns a short, meaningful summary using t
 
 ## 👩‍💻 Created By
 
-**Darsh Sharma**
-🎓 B.Tech Computer Science
+ **Guntuboiyna Sailaja**
+🎓 B.Tech Computer Science(AI&ML)
 🧠 CodTech Internship – Task 1
